@@ -54,7 +54,7 @@
   ],
   "dependencies": {
     "@types/swagger-jsdoc": "^6.0.0",
-    "@typescript-eslint/eslint-plugin": "^4.15.2",
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
     "@typescript-eslint/parser": "^4.15.2",
     "axios": "^0.21.1",
     "compression": "^1.7.4",
